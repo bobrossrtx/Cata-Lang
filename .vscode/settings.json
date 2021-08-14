@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "cstring": "c",
+        "random": "c",
+        "cata.h": "c",
+        "lexer.h": "c",
+        "io.h": "c",
+        "stdio.h": "c"
+    }
+}
